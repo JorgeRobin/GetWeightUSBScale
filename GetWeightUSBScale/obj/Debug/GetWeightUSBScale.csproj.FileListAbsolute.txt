@@ -1,0 +1,11 @@
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\bin\Debug\GetWeightUSBScale.exe.config
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\bin\Debug\GetWeightUSBScale.exe
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\bin\Debug\GetWeightUSBScale.pdb
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\bin\Debug\HidLibrary.dll
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\bin\Debug\HidLibrary.pdb
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.Form1.resources
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.Properties.Resources.resources
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.csproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.exe
+c:\users\jorge\documents\visual studio 2012\Projects\GetWeightUSBScale\GetWeightUSBScale\obj\Debug\GetWeightUSBScale.pdb
