@@ -1,5 +1,5 @@
 # GetWeightUSBScale
-This is a C# .NET desktop application for getting weoght from a USB scale.
+This is a C# .NET desktop application for getting weight from a USB scale.
 It was tested on a Mettler-Toledo scale.
 The application considerations:
 1) A scale is connected through USB.
