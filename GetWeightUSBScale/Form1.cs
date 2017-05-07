@@ -54,6 +54,7 @@ namespace GetWeightUSBScale
                 s.GetWeight(out weight, out isStable);
                 //s.DebugScaleData();
                 s.Disconnect();
+                // default to kgs
                 string unit = "Kgs";
                 if (Convert.ToInt16(s.ScaleWeightUnits) == 12) unit = "Lbs";
                 //Console.WriteLine("Weight: {0:0.00} " + unit, weight);
